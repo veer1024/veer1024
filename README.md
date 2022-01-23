@@ -1,5 +1,6 @@
 
 <h3><center>Hi :wave:, I'm Viraj Vaishnav</center></h3>
+![](https://komarev.com/ghpvc/?username=veer1024)
 <!--
 **veer1024/veer1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
