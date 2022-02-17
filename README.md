@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viraj Vaishnav</h1>
 <p align="center">
   
-![](images/me2.png)
+![](images/we.jpg)
   
 </p>
 <h3 align="center">Ethical Hacker and cybersecurity researcher</h3>
