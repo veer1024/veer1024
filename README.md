@@ -4,7 +4,7 @@
 ![](images/cs.jpg)
   
 </p>
-<h3 align="center">Devsecops,Ethical Hacker and cybersecurity researcher</h3>
+<h3 align="center">DevSecOps,Ethical Hacker and cybersecurity researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veer1024&label=Profile%20views&color=0e75b6&style=flat" alt="veer1024" /> </p>
 
